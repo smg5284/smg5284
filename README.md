@@ -5,7 +5,7 @@
   <img align='center' src='./images/logo.png'>
 </p>
 
-**<h3 align='center'>My name is Santiago, computer enthusiast and student @ <a href='https://unal.edu.co'>UNAL</a> <img width=16 src='./images/flag.png'></h3>**
+**<h3 align='center'>My name is Santiago, computer enthusiast and student @ <a target='_blank' rel="noopener noreferrer" href='https://unal.edu.co'>UNAL</a> <img width=16 src='./images/flag.png'></h3>**
 
 **<h4 align="center">Some facts about me:</h4>**
 
