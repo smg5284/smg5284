@@ -1,10 +1,13 @@
-# Hi there, internet people! 👋🏾
+**<h1 align='center'>Hi there, internet people! 👋🏾</h1>**
 
-<img align='center' src='https://gpvc.arturio.dev/smg5284'>
+<p align="center">
+    
+  <img align='center' src='./images/logo.png'>
+</p>
 
-### My name is Santiago, computer enthusiast and student @ [UNAL](https://unal.edu.co/).
+**<h3 align='center'>My name is Santiago, computer enthusiast and student @ <a href='https://unal.edu.co'>UNAL</a> <img width=16 src='./images/flag.png'></h3>**
 
-### **Some facts about me:**
+**<h4 align="center">Some facts about me:</h4>**
 
 - 🌱 I’m currently learning NodeJS + Express.
 - 🌠 I've made some small projects in Java, C, JS, Dart and Python before.
@@ -13,6 +16,10 @@
 - 📫 How to reach me: You can take a look at my [LinkedIn](https://www.linkedin.com/in/smondragong), or mail me at santiagomondragon67@gmail.com
 - ⚡ Fun fact: I have two cats, Argus & Koda. 🐈🐈
 
-#### **You can check some of my university assignments as well as personal projects in the pinned repos below.**
+**<h4 align="center">You can check some of my university assignments as well as personal projects in the pinned repos below.</h4>**
 
-#### **Have a nice day! :)**
+**<h4 align="center">Have a nice day! :)</h4>**
+
+<p align="center">
+  <img align='center' src='https://gpvc.arturio.dev/smg5284'>
+</p>
