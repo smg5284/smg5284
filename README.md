@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/smg5284)
 
-### My name is Santiago, computer enthusiast and student @ UNAL.
+### My name is Santiago, computer enthusiast and student @ [UNAL](https://unal.edu.co/).
 
 ### **Some facts about me:**
 
