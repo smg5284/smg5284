@@ -1,6 +1,6 @@
 # Hi there, internet people! 👋🏾
 
-![Profile views](https://gpvc.arturio.dev/smg5284)
+<img align='center' src='https://gpvc.arturio.dev/smg5284'>
 
 ### My name is Santiago, computer enthusiast and student @ [UNAL](https://unal.edu.co/).
 
