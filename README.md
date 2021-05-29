@@ -14,7 +14,7 @@
 - 💻 Currently interested in web development and machine learning.
 - 💬 Ask me about music! I'm a huuuge music fan, currently into Aphex Twin and early Daft Punk.
 - 📫 How to reach me: You can take a look at my [LinkedIn](https://www.linkedin.com/in/smondragong), or mail me at santiagomondragon67@gmail.com
-- ⚡ Fun fact: I have two cats, Argus & Koda. 🐈🐈
+- ⚡ Fun fact: I have two cats, Argus, Koda and Ámbar. 🐈🐈
 
 **<h4 align="center">You can check some of my university assignments as well as personal projects in the pinned repos below.</h4>**
 
