@@ -5,14 +5,17 @@
   <img align='center' src='./images/logo.png'>
 </p>
 
-**<h3 align='center'>My name is Santiago, computer enthusiast and student @ <a target='_blank' rel="noopener noreferrer" href='https://unal.edu.co'>UNAL</a> <img width=16 src='./images/flag.png'></h3>**
+**
+<h3 align='center'>My name is Santiago, computer enthusiast and student @ <a target='_blank' rel="noopener noreferrer" href='https://unal.edu.co'>UNAL</a> <img width=16 src='./images/flag.png'></h3>
+<h3 align='center'>Currently working as a Software Development Analyst @ Mercado Libre 💪</h3>
+**
 
 **<h4 align="center">Some facts about me:</h4>**
 
 - 🌱 I’m currently learning NodeJS + Express.
 - 🌠 I've made some small projects in Java, C, JS, Dart (Flutter) and Python before.
 - 💻 Currently interested in web development and machine learning.
-- 💬 Ask me about music! I'm a huuuge music fan, currently into Aphex Twin and early Daft Punk.
+- 💬 Ask me about music! I'm a huuuge music fan, currently into Towa Tei and some indie shoegaze.
 - 📫 How to reach me: You can take a look at my [LinkedIn](https://www.linkedin.com/in/smondragong), or mail me at santiagomondragon67@gmail.com
 - ⚡ Fun fact: I have three cats, Argus, Koda and Ámbar. 🐈🐈🐈
 
