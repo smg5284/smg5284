@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning NodeJS + Express.
 - 🌠 I've made some small projects in Java, C, JS, Dart (Flutter) and Python before.
 - 💻 Currently interested in web development and machine learning.
-- 💬 Ask me about music! I'm a huuuge music fan, currently into Towa Tei and some indie shoegaze.
+- 💬 Ask me about music! I'm a huuuge music fan, currently into Towa Tei and Mac DeMarco.
 - 📫 How to reach me: You can take a look at my [LinkedIn](https://www.linkedin.com/in/smondragong), or mail me at santiagomondragon67@gmail.com
 - ⚡ Fun fact: I have three cats, Argus, Koda and Ámbar. 🐈🐈🐈
 
