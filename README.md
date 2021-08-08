@@ -10,7 +10,7 @@
 
 **<h4 align="center">Some facts about me:</h4>**
 
-- 🌱 I’m currently learning NodeJS + Express.
+- 🌱 I’m currently learning NodeJS + Express and Java + Spring Boot!
 - 🌠 I've made some small projects in Java, C, JS, Dart (Flutter) and Python before.
 - 💻 Currently interested in web development and machine learning.
 - 💬 Ask me about music! I'm a huuuge music fan, currently into Towa Tei and Mac DeMarco.
