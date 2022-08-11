@@ -1,7 +1,6 @@
-**<h1 align='center'>Hi there, internet people! 👋🏾</h1>**
+**<h2 align='center'>Hi there, internet people! 👋🏾</h1>**
 
 <p align="center">
-    
   <img width=48 align='center' src='./images/logo.png'>
 </p>
 
