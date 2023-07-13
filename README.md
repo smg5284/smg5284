@@ -22,11 +22,11 @@
   <a href="https://www.linkedin.com/in/smondragong/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://mondracode.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=my website&logo=dev.to&label=&color=A180EE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
   <a href="mailto:santiagomondragon67@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=mail me&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://mondracode.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=my website&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
 </div>
 
