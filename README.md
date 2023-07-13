@@ -44,9 +44,6 @@
 - 💬 Ask me about music! I'm a huge music fan, currently into [Turnstile](https://www.youtube.com/watch?v=D6yaJur9JUE) ☁️ and [De La Soul](https://www.youtube.com/watch?v=2WbSBLplJS0) 🌼.
 - ⚡ Fun fact: I have three cats, Argus, Koda and Ámbar. 🐈🐈🐈
 
-
 **<h3>What I'm listening to:</h3>**
-<img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true&user=21kvpybbw56kuzdy62dkv6dty" alt="Spotify recently played"  />
-
-**<h4>You can check some of my academic assignments as well as personal projects in the pinned repos below.</h4>**
-**<h3>Enjoy! ⚡</h3>**
+<img src="https://spotify-recently-played-readme.vercel.app/api?count=2&unique=true&user=21kvpybbw56kuzdy62dkv6dty" alt="Spotify recently played"  />
+**<h4>You can check some of my academic assignments as well as personal projects in the pinned repos below. Enjoy! ⚡</h4>**
