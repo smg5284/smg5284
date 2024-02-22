@@ -38,9 +38,9 @@
 **<h3>Some facts about me:</h3>**
 
 - 🛠 I have experience working with high-traffic web-apps on Golang, Kotlin, React and NodeJS; both in the frontend and the backend.
-- 🎓 I'm a Computer Engineering student at Universidad Nacional de Colombia, expecting to graduate early 2024.
+- 🎓 I just finished studying Computer Systems Engineering student at Universidad Nacional de Colombia, graduating in April 2024!
 - 🌱 I’m currently learning Rust! 🦀
-- 🌠 In the past I've made some personal and academic projects in Java (with Spring Boot), C, Dart (Flutter) and Python.
+- 🌠 In the past I've made some personal and academic projects in Go, Java (with Spring Boot), C, Dart (Flutter) and Python.
 - 💻 Currently interested in web technologies and API development.
 - 💬 Ask me about music! I'm a huge music fan, currently into [Turnstile](https://www.youtube.com/watch?v=D6yaJur9JUE) ☁️ and [De La Soul](https://www.youtube.com/watch?v=2WbSBLplJS0) 🌼.
 - ⚡ Fun fact: I have three cats, Argus, Koda and Ámbar. 🐈🐈🐈
