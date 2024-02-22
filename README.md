@@ -38,7 +38,7 @@
 **<h3>Some facts about me:</h3>**
 
 - 🛠 I have experience working with high-traffic web-apps on Golang, Kotlin, React and NodeJS; both in the frontend and the backend.
-- 🎓 I just finished studying Computer Systems Engineering student at Universidad Nacional de Colombia, graduating in April 2024!
+- 🎓 I just finished studying Computer Systems Engineering at Universidad Nacional de Colombia, graduating in April 2024!
 - 🌱 I’m currently learning Rust! 🦀
 - 🌠 In the past I've made some personal and academic projects in Go, Java (with Spring Boot), C, Dart (Flutter) and Python.
 - 💻 Currently interested in web technologies and API development.
