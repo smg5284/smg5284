@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/smondragong/?locale=en_US" target="_blank">
+  <a href="https://www.linkedin.com/in/mondracode/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://mondracode.com/" target="_blank">
@@ -34,18 +34,16 @@
 
 ###
 
-<h4>My name is Santiago. 🦆 I'm a back-end web developer and a computer enthusiast. I live in Bogotá, Colombia. </h4>
-<h4>Currently working as a SSr Software Engineer @ Mercado Libre 🤝</h4>
+<h4>My name is Santiago. 🦆 I'm a back-end software engineer and tech enthusiast based in Bogotá, Colombia.</h4> <h4>Currently working as an SSr Software Engineer @ Mercado Libre 🤝</h4>
 
-**<h3>Some facts about me:</h3>**
+<h3>Some facts about me:</h3>
 
-- 🛠 I have experience working with high-traffic web-apps on Golang, Kotlin, React and NodeJS; both in the front-end and the back-end (even though I mainly do back-end these days), delivering experiences to a userbase located throughout 17 countries in Latin America.
-- 🎓 I'm a Computer Systems Engineer, graduated from Universidad Nacional de Colombia ❤
-- 🌱 I’m currently learning Rust! Low(er) level programming is really fun 🦀
-- 🌠 In the past I've made some personal and academic projects in Go, Java (with Spring Boot), C, Dart (Flutter) and Python.
-- 💻 Currently interested in web technologies and API development.
-- 💬 Ask me about music! I'm a huge music fan, currently into [Turnstile](https://www.youtube.com/watch?v=D6yaJur9JUE) ☁️ and [De La Soul](https://www.youtube.com/watch?v=2WbSBLplJS0) 🌼.
-- ⚡ Fun fact: I have three cats, Argus, Koda and Ámbar. 🐈🐈🐈
+- 🛠 I have experience building and maintaining high-traffic backend systems in Golang and Kotlin, delivering data-driven, scalable solutions for a userbase spread across 17 countries in Latin America.
+- 🎓 I hold a degree in Computer Systems Engineering from Universidad Nacional de Colombia ❤
+- 🌱 Currently exploring Rust, adding lower-level programming to my toolkit 🦀
+- 🌠 My experience spans multiple languages and frameworks, including Go, Kotlin -using Spring Boot- and JavaScript in professional environments; and Java, C, Dart -through Flutter- and Python for academic and personal endeavors.
+- 💻 My main interests are in web technologies, API development, and scalable business traceability.
+- 💬 Big music fan and concertgoer! Currently into [Turnstile](https://www.youtube.com/watch?v=D6yaJur9JUE) ☁️ (whom I've seen twice) and [De La Soul](https://www.youtube.com/watch?v=2WbSBLplJS0) 🌼.
+- 📷 Fun fact: I'm a novice analog photography nerd!
 
-**<h4>You can check some of my academic assignments as well as personal projects in the pinned repos below.</h4>**
-**<h4> Enjoy (and give me credit if you take something from here)! ⚡</h4>**
+<h4>You can check out my academic and personal projects in the pinned repos below.</h4> <h4>Enjoy (and credit me if you use something)! ⚡</h4>
